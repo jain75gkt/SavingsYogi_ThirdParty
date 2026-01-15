@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Best CD Rates for 2026 Today's Top Rates(1)",
+  "Type": "Screen",
+  "Id": "RY4CRU1dAUu1N6_kIY6TjQ",
+  "Reference": "wmoQtc-7M02aRki2x1FIUw/RY4CRU1dAUu1N6_kIY6TjQ",
+  "ParentRef": "wmoQtc-7M02aRki2x1FIUw/rVVts5_adkizR12ROLndCA",
+  "Created": "2026-01-15T12:23:37.123956Z",
+  "Updated": "2026-01-15T12:23:37.123956Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

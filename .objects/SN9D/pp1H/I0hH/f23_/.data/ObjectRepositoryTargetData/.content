@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KVCbjTZ5BEW3diBRh_imgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.nerdwallet.com/banking/best/money-market-accounts" DesignTimeRectangle="238, 167, 1443, 931" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='TBODY' /&gt;" Guid="74484eea-af55-42d1-a3fa-6f21b8516f64" ScopeSelectorArgument="&lt;html app='msedge.exe' title='6 Best Money Market Accounts for 2026: Up to 4.10% - NerdWallet' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cf6d5997111f17750f7d9d1e2d0c0d75.png" xmlns="">0yb7FUqsAwk6Z8ODrmkfWQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column1' Name='New column 1'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column3' Name='New column 2'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataNextLink' /&gt;
+&lt;/Table&gt;</p:InArgument>
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="nerdwallet.com/banking/best/money-market-accounts" CVScreenId="2769942e-2983-497b-940d-64161a502407" CvElementArea="829, 858, 260, 65" CvTextArea="851, 881, 189, 16" CvTextArgument="SEE MORE ACCOUNTS" CvType="Button" DesignTimeRectangle="853, 879, 188, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='See more accounts' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='See more accounts' tag='SPAN' type='' class='MuiTypography-root MuiTypography-textSmall css-1dv85wc' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='SEE MORE ACCOUNTS' /&gt;" Guid="32bf1709-dde7-4dd1-b089-1bf9c2188578" ScopeSelectorArgument="&lt;html app='msedge.exe' title='6 Best Money Market Accounts for 2026: Up to 4.10% - NerdWallet' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2769942e-2983-497b-940d-64161a502407" CvElementArea="829, 858, 260, 65" CvTextArea="851, 881, 189, 16" CvTextArgument="SEE MORE ACCOUNTS" CvType="Button" DesignTimeRectangle="832, 861, 255, 60" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='See more accounts' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='See more accounts' tag='BUTTON' type='button' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-znbnjm' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='SEE MORE ACCOUNTS' /&gt;" Guid="eee7d5dc-2c2f-4a97-b9c8-14942dc6689a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="0" Y="0" />
+      </TargetAnchorable.PointOffset>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
