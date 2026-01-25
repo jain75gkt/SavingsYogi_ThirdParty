@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="UQ95spkcUEmmUTy30xqVnA" Reference="wmoQtc-7M02aRki2x1FIUw/AT-NmONZxEOibcPCRAGbhw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Edge" ContentHash="Kd6Y_C2cpkq2kmqMpJA0UQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAIWSURBVDhPfVK/axRREN4iMINgOos0lla2h5V9imBK/wJBsLAKs+/t3l5WUZEQ0OIED8IRPPTCaW41e6chZvceQsAqyIGFFhLQJilEFGIKfTKze3d7S3BgYH+873vffPM5zn8Kd1zAXXcODVXQ0FVMKUBD62joHRo6wJTelzGOABK6IodTN8IBDdHQERo6QUN2qlM3mgBjdQ77SuO2+xF33N+461rpAU06I5kQDWglA0f6PG6pGHvqD/aVxW3X5iSfcxUraOimKDN0JwdbTOi6A83qGdzUTexqi1uK+xhj1ZHDPE5fzRQmdIQoU3DCZxzc8BZxw/ueExxjVy+xeUVQsURNNg77UmGCBra9v9jRFjd1jxWVQcXClJ7kBAfYUxccaPr70PKtkHT1khzqqxn+iS/05aIaWWvivs5NHfKIDqz5X6HpWyF56l2Dll8RVbHqwHN9cer2hGZ597IdzkJCsw48Cg6hUbUZifeB/YC2t1cGCwGbypthAlbC6qYIuNvensx2SuEbNV/IyGP5CKu1Q6gHNifZP+1mLvGkp95KRrg5A1xC8DCwUA8+Qb16CZ55Z9kH8YJN5DVHOsSXeig54aDF6ttYJdxbPhKSB7UFeW9U78Oa/xPW/R/Y8n6NV8w54X4ladVjaXA7/AJ3l2/IMysoezJaMZPwzZEOWeWEIAz9UXhgtXYrH2fkiWUl+XYaMlIp2v8AWDJnWjsCk9AAAAAASUVORK5CYII=" Reference="wmoQtc-7M02aRki2x1FIUw/AT-NmONZxEOibcPCRAGbhw" Selector="&lt;html app='msedge.exe' title='Banking Products | LendingTree' /&gt;" Url="[in_TransactionItem(&quot;Page URL&quot;).ToString]" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="167d8da67b5d0e93dcac95c1b301c3a5.jpg" xmlns="">0rMDfYH9B7kiPePvQzS-A5Q</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Best High-Yield Savings Accounts Up To 5",
+  "Type": "Screen",
+  "Id": "gBUx_QB5J0umnbUBqHI4EQ",
+  "Reference": "wmoQtc-7M02aRki2x1FIUw/gBUx_QB5J0umnbUBqHI4EQ",
+  "ParentRef": "wmoQtc-7M02aRki2x1FIUw/Ifudd400tU645eXGek1Eag",
+  "Created": "2026-01-15T16:27:15.6392604Z",
+  "Updated": "2026-01-15T16:27:15.6392604Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

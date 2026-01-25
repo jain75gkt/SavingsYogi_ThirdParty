@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="sIGFKbpnkkurZg02KpEoAA" Reference="wmoQtc-7M02aRki2x1FIUw/p-zcO-HklUqorYjnfFmGJg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Edge" ContentHash="KzDizYF-HEasbh94tdbZ1Q" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIlSURBVFhHxda/LwNhHMfxxiKGnh9/gljsUiS04oim7UYkIsTiZzCJxcIgESw62WydlGcQi14H0dlkOoPJZJKm6dD0ke+1jz793vOr6Bk+A2nv/er1uRAKk+R7mCSpan0kQYfuZ4ppNztXrVY7KKUh1a5f9k/OCjFqsM8QjuFBfC0/SedzNvxcTrs3cziId/W8khHEhFMCWBxeWAcYIf4E0MvFEYBaJFW6cLNSxK8BEF/n4rCFnF3mX6NC/ArAPvnpU/MLF51mgArxYwD75DguA9TnnQn+6fgRgD9woikAPkTLAF0cpgF8I1oGmMRhBgBqkWQZzkRLAHzaZTMB1BCp0mpu+hW/X7YQ/oVspgBY33mMbt+O+64hWlsAXcdR2r0T8RCiJ4pf2wCdGxFqGSDaCuAR+HqBAWDs68DXDAzgIXYBMea7bmAAGSJQQAPR+DoCB3gI7un4FwCPMAKAdPZh5s0iqSKOiWYCgA0ejlS0AIgvOTYdzW/eXbjZuEWSWoQJoP9guHLoRNV3gMV7SIJGnK07+FObdm/iYQ1CB2BxaEgBLN5NEt5FGQD+6dAhVAA+LgVAfNmxqVWP8wAThAyA40LAacEfxwC22pnwH0wRAOJH+ea4DwBx/rbrAHVEAiMwQBZvArA4HDgcVwFECB4guu0+gC6uA8D4M8EAurgHUN32VgA8AgAmcQ+w5Ngfujhs6nEvg4N4tacjGx+4nPg0iZ8VYqUvAa49ZRmm6PEAAAAASUVORK5CYII=" Reference="wmoQtc-7M02aRki2x1FIUw/p-zcO-HklUqorYjnfFmGJg" Selector="&lt;html app='msedge.exe' title='Best CD Rates for January 2026: Up to 4.27% - NerdWallet' /&gt;" Url="https://www.nerdwallet.com/banking/best/cd-rates" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="c0aafa8a22fd92481dbfcbdb290305c5.jpg" xmlns="">0bt11jBT8ckuFNimmRFZtKg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

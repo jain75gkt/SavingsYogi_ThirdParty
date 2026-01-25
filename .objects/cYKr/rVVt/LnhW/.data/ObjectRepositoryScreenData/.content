@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="t_KRH7UHRE2Y-pMqrGzg6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1150" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAATRJREFUWEftlf8RwTAYhk2BAbAABvBjAAygXUAtwAIsIF1A7CEbdIJu0Anivtylx5uSr1T7T9+7547065eHNGmn3+vqJungQN20Aq2AV2Af7b4mDLZOP8QrcDwe9E1edVGyLNNpmuZgaAz7IV4Bi1J37K8365VTR7+cxGzwOsIWoMaYIgFiuZjnNXgNYQuEQfAyOeWdABHHoloBmgwznYydOstiPjNLgeMIW4AaYlBgNBwYnr9jH4QtQJNhUOAmpY6inXPvJyoToM/0l9cqIITQUl4NduvVLnA+n3QsLvlBVKtA40uADyHt/b8JFJ0DeBDhNuRQqcA3/CQQhoFTVxa2AL2WMTSGdWVhCxS9jpVSTl1ZvAKxEGaid0mSxNTgjuDiFaC151D26bd4Bf5NK9AKNC7wALEYZKe9Jiz8AAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='Best High-Yield Savings Accounts: Up To 5.00% APY – Forbes Advisor' /&gt;" Url="https://www.forbes.com/advisor/banking/savings/best-high-yield-savings-accounts/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="a39edeb798472e40f1d5b66b1ed8d8bf.jpg" xmlns="">0XNxzL9V1eEK-35tdVexd4A</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

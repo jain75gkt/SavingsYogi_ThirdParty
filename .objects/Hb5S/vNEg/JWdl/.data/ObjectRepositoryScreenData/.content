@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="y0aWSur-q0ecbHOJaNO6Sw" Reference="wmoQtc-7M02aRki2x1FIUw/JWdl1UmbD0qWY3zodbUcjg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1150" BrowserType="Edge" ContentHash="ERBH7YRJdk6ZyZPDgyNhVg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMdSURBVGhD7ZpbSBRRHIfXqOhChWUREV0IopcgwuihHoN6qAcfYtUwXZXIC10oCoMkiqIgLAmphygpKkSLiDTCh26WKREkUUpFGWZqlrrWat6+OHOcRvdozewOsw74h+/F/Z0/58M5Z87OrMejFVGeOOZ5EvB5vFREeQlEeWGMERBz0+Yo5irm/Hfy8cR6vJSPMGhMIuaqzVmTEDZy8v3BwTFMvyah/ScS8I0QcAXa5TR4zSsfugFtTYzRBWuWgBAI/qOrGBeINGEL7C6ED02j8+4rPK2DvLuwLheiU2FCvNonVMIWOFKM6Qr8hptVsD5X7RMqjgqIGhiAxh+w8bjaKxRsFWjpgFtVcL1iOI/fykmLyev1qQVW7lf7WcVWgYpamL9DzUxOhLWHpExvn8z29cOZUpiapOat4IiAzoKdUPrSyNd+gcVZas4KjgoIkgvgZ7fM9w/InSk4YwXHBdbkyPWgl++8mrGC4wKrDkDDd2NMxkU1YwXHBbbmQfsvmRe70pZTasYKjgrMToXiSmM7bWqD5XvUnBUcE4j2wZVH0N1j5IuewawUNWsFWwUa2+DyAyi4P5wbFdDqN3Kimtth80m1n1VsFbBS5TUwJ03tZ5WICfi74GwZzEhWe1rBVgFx2hTHZ3GHHUpdI3xshtZOeYTQSyzmoyUwKVHtaxZbBSrrYGk2TE8awnaYmQJLsmDTCTh3z9hGRYlFHXda7WsWWwX+tQvpTEuChHx5jNCr+n3ou5HjAjr5Zca4b37YcEzNmCFiAqsPQkdAjhOXUWaIR4qICSzKhDcNcpxYzIeL1IwZIiawMANq6l0ssGKv/AoqqrsXsi+pGTNETGDfVeNQJ+4PYosNzpjBcYGJCRCbA/7BBSzqVT3EhHiscFQgJh3SLsi7tV7ifpAaxrcyWwVGe6xy7QnceSGPFJ1dRl5U4UOYsk3taxZbBaxUTx/croa56WpPKzguIBauuITEOLGVBvezStgC/3u4q/P6M5Q8l2tg2S75sCu4VyiELRBpxgUijRBw90s+179mdfWLbq940e36nxq4/sceLv+5zR9uB7jx0tLe1AAAAABJRU5ErkJggg==" Reference="wmoQtc-7M02aRki2x1FIUw/JWdl1UmbD0qWY3zodbUcjg" Selector="&lt;html app='msedge.exe' title='Best Money Market Account Rates Of January 2026 - Up to 4.10% | Bankrate' /&gt;" Url="https://www.bankrate.com/banking/money-market/rates/" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="cc1b4f95a00128cc302b2609bf4b0ac0.jpg" xmlns="">0JJ8LKqWZwEGUrOqJIVyBjg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

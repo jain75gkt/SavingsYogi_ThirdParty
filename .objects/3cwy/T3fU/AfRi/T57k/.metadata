@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Best CD Rates for Janua…",
+  "Type": "Element",
+  "Id": "T57koBOqHkinamXbCELIJQ",
+  "Reference": "wmoQtc-7M02aRki2x1FIUw/T57koBOqHkinamXbCELIJQ",
+  "ParentRef": "wmoQtc-7M02aRki2x1FIUw/AfRidYvGbES_6-hRLPIYPg",
+  "Created": "2026-01-11T15:37:26.0932294Z",
+  "Updated": "2026-01-11T15:37:26.0932294Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
