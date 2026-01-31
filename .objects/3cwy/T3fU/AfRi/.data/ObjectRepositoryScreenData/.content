@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="XCB-2gKrOU6wRkUwMneGhA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;html app='msedge.exe' title='Best CD Rates for January 2026: Up to 4.27% - NerdWallet' /&gt;" Url="https://www.nerdwallet.com/banking/best/cd-rates" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

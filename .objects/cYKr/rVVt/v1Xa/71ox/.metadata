@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Save as type",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "71oxPE5blkSLOrZ7WFfjWA",
+  "Reference": "wmoQtc-7M02aRki2x1FIUw/71oxPE5blkSLOrZ7WFfjWA",
+  "ParentRef": "wmoQtc-7M02aRki2x1FIUw/v1XaNd_xdUSu99Ojpg4WRQ",
+  "Created": "2026-01-25T11:52:28.8056408Z",
+  "Updated": "2026-01-25T11:52:28.8056408Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

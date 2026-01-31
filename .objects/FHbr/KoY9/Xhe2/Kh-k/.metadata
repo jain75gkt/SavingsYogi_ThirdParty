@@ -1,0 +1,14 @@
+﻿{
+  "Name": "See more accounts",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Kh-kF6uNkUy-z6XHUTUK4A",
+  "Reference": "wmoQtc-7M02aRki2x1FIUw/Kh-kF6uNkUy-z6XHUTUK4A",
+  "ParentRef": "wmoQtc-7M02aRki2x1FIUw/Xhe2p2PRVEme1pAOqEjLDw",
+  "Created": "2026-01-13T16:21:08.102215Z",
+  "Updated": "2026-01-13T16:21:08.102215Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

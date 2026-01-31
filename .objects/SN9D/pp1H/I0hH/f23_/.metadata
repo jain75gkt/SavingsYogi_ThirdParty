@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Zynlo Money Market Acco…",
+  "Type": "Element",
+  "Id": "f23_lqLQ8UGrUNL5IwMEsA",
+  "Reference": "wmoQtc-7M02aRki2x1FIUw/f23_lqLQ8UGrUNL5IwMEsA",
+  "ParentRef": "wmoQtc-7M02aRki2x1FIUw/I0hHjv8X6kmSv5-KSfS5zA",
+  "Created": "2026-01-12T14:56:38.9453702Z",
+  "Updated": "2026-01-12T14:56:38.9453702Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

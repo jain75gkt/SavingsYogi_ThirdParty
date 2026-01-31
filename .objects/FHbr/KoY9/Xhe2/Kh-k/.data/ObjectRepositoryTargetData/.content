@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LPwLFMpS4E2FPO0bp2tImw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nerdwallet.com/banking/best/money-market-accounts" CVScreenId="f82e363a-55c1-4426-b608-a8c2f872cfbb" CvElementArea="830, 642, 259, 64" CvTextArea="851, 665, 190, 15" CvTextArgument="SEE MORE ACCOUNTS" CvType="Button" DesignTimeRectangle="853, 661, 188, 23" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='See more accounts' tag='SPAN' type='' class='MuiTypography-root MuiTypography-textSmall css-1dv85wc' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='SEE MORE ACCOUNTS' /&gt;" Guid="4c16afd2-87cb-40d6-af88-bb5aae4fdd44" ScopeSelectorArgument="&lt;html app='msedge.exe' title='6 Best Money Market Accounts for 2026: Up to 4.10% - NerdWallet' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f82e363a-55c1-4426-b608-a8c2f872cfbb" CvElementArea="830, 642, 259, 64" CvTextArea="851, 665, 190, 15" CvTextArgument="SEE MORE ACCOUNTS" CvType="Button" DesignTimeRectangle="832, 643, 255, 60" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='See more accounts' tag='BUTTON' type='button' class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth css-znbnjm' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='SEE MORE ACCOUNTS' /&gt;" Guid="aea8eec1-a6a6-410a-9380-8029c6f54eee" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="40a67432497f46190df2df80ca095f52.png" xmlns="">0bNg1Xsm2Aki-cm7PfgS2vg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

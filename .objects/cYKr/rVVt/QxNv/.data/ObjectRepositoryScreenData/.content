@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="hc_rrx7TcEGiz_rRntG7gA" Reference="wmoQtc-7M02aRki2x1FIUw/QxNvoL_A-UayngHUYIWx5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1150" BrowserType="Edge" ContentHash="fycC5NxUmEqJELMGF1eg2A" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGbUExURSCWTyGWTyGWUCKXUSOXUSWYUyaYUyaZVCeZVCiaVSmaViqbVyubVyubWC2cWS6cWi6dWjCdXDGeXDKeXTOfXjSfXzehYTmiYzuiZDyjZT2kZj+kZ0ClaUmpb0uqcEyqck2rck2rc06rc0+sdFGtdlKtdlSueFaveliwe1uyflyyfl6zgGC0gWW2hWe3h2q4iW67jXC7jnC8jnG8j3O9kHS9kXS9kna+k3i/lXrAlnzBl3zBmH3BmIDDmoDDm4HDm4LEnIPEnYTFnYTFnoXFnobGn4nHoorIo5DKp5LLqZjOrZnPrp7RsqLTtaPTtqXVuKbVuafVuavXvazYvq3YvrDZwbDawbLawrLbwrXcxbbcxbfdxrnex7vfyb3fyr7gy7/gzMXk0cnl1Mrm1czn183n187n2M/o2dHp29Tq3dTr3dXr3tfs39nt4dvu4tzu493v5N7v5d/w5uHw5+Hx6OXy6uXz6+bz6+f07Oj07en07ur17uv17+z28O328e/38vD48/H49PT69vX69/b7+Pf7+Pf7+fn8+vr8+6GBNWcAAAE0SURBVDhP7ZHXU8JAGMRXglGx996xgmLBgqJYsPcuEhvGjthQlGIn5M92Lrkk6IuPvLgP3/32dmdu5j7gX/GqtTm7SxRTYBnur9fFxzWXL+6VA2ErhxjDYtSzuhP0NWm58XMmBUAxf8YC7BFfBkA/JpiVPPl+VobsJwcwfZMhu/FIFi10vBooTewh9d1Cjd4/SmljnQJRS5RVcO6QwrlTyzF0oWJXiMKtjcwejuM4F6Y8aqHtg8LpJJl1Vqt1QMTglVroDVBYditXFSIaxUzFLexTMH3lU7KL0D9LDwJIC/dRwvF2knTm+kTAHi6Sb+fvyO9JKn10kT00eDtjgG7T30r2sfRWpeRA4ZpwfRJ4aEcEgG4kFOS9sd1yLQeQbjRVMwAjGabS3Jz3I06wmD/0u58IfQNWXzIBV4uC+gAAAABJRU5ErkJggg==" Reference="wmoQtc-7M02aRki2x1FIUw/QxNvoL_A-UayngHUYIWx5w" Selector="&lt;html app='msedge.exe' title='Best High-Yield Savings Accounts of 2026 | GOBankingRates' /&gt;" Url="https://www.gobankingrates.com/banking/savings-account/best-high-yield-savings-accounts/" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="21410c30c3afe17efac257f9dad607e9.jpg" xmlns="">0ipCTIZLQGkGlVLpZpQiEfw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

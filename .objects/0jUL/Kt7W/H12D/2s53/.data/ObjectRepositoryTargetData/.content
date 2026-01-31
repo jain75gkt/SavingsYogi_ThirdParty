@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CmD-gmMR4E2XEw-3CmuN_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="lendingtree.com/banking" CVScreenId="bd41938a-198d-4426-ae05-a25b76ab707d" CvElementArea="350, 614, 392, 55" CvType="InputBox" DesignTimeRectangle="352, 616, 390, 52" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="fa63ff91-815e-40e3-8bf4-047296b979c6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Banking Products | LendingTree' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bd41938a-198d-4426-ae05-a25b76ab707d" CvTextArea="350, 575, 201, 25" CvTextArgument="Select account type:" CvType="Text" DesignTimeRectangle="352, 568, 199, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Select account type:' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Select account type:' /&gt;" Guid="8a93ad89-92da-41e8-9a5d-8135fa2a52fa" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0c58bfd4255fca360d120ce386ec3a84.png" xmlns="">0SgLxivmzikmLH3zq-nqJGQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
